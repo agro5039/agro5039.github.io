@@ -90,7 +90,7 @@ import { RiGeminiFill } from "react-icons/ri";
 
 export const resumeLink =
   "https://drive.google.com/file/d/1vkxyMDB5_KpMwt4QXFgT2aqdRizr8Czh/view?usp=sharing";
-export const repoLink = "https://github.com/mittal-parth/personal-portfolio";
+export const repoLink = "https://github.com/agro5039/agro_maldo-personal-portfolio.git";
 
 export const callToAction = "https://www.linkedin.com/in/mittal-parth";
 
@@ -892,7 +892,7 @@ export const projects = [
   {
     id: "project-10",
     title: "Portfolio",
-    github: "https://github.com/mittal-parth/personal-portfolio",
+    github: "https://github.com/agro5039/agro_maldo-personal-portfolio.git",
     link: "https://parthmittal.netlify.app/",
     image: portfolio,
     content: "Open source developer portfolio template with modern UI/UX. 140+ stars on GitHub.",
@@ -1032,13 +1032,13 @@ export const stats = [
 export const extraCurricular = [
   {
     id: 1,
-    organisation: "Devfolio",
-    title: "UniDAO Lead",
-    duration: "December 2021 - Present",
+    organisation: "Alpha Phi Omega, Service Fratternity",
+    title: "APO",
+    duration: "2008 - Present",
     content: [
       {
-        text: "Selected among 5 students across the country to lead the initiative and grow the culture of Blockchain and Ethereum, powered by Devfolio.",
-        link: "https://www.linkedin.com/feed/update/urn:li:activity:7097977924686942209/",
+        text: "Community Advisor, Upsilon Mu Chapter Alumni.",
+        link: "https://www.",
       },
       {
         text: "Led a cohort of 37 selected students over 6 weeks to learn and build in the Ethereum ecosystem.",
@@ -1123,7 +1123,7 @@ export const socialMedia = [
   {
     id: "social-media-2",
     icon: AiFillGithub,
-    link: "https://www.github.com/mittal-parth",
+    link: "https://github.com/agro5039/agro_maldo-personal-portfolio.git",
   },
   {
     id: "social-media-3",
@@ -1144,12 +1144,12 @@ export const socialMedia = [
 
 // Your professional summary
 export const aboutMe = {
-  name: "Parth Mittal",
-  githubUsername: "mittal-parth",
+  name: "Agro. Alberto J. Maldonado Rodríguez ",
+  githubUsername: "agro5039",
   tagLine:
-    "MTS @ Oracle | 10x Hackathon Winner 🏆 | ETHIndia'22,24 Winner | NITK'24 | PBA-5",
+    "Agronomist| PhD Student | College Proffesor",
   intro:
-    "Software Developer from India who is either busy improving his craft or pondering over the next big idea.",
+    "Data Scientist in training, professional agronomist and AI enthusiast, looking to change the agriculture industry",
 };
 
 // The maximum number of PRs to be displayed in the Open Source Contributions section.
